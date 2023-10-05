@@ -1,6 +1,6 @@
-# PhotoScavagerHunt
+# PhotoScavengerHunt
 Project #4 from CodePath Mobile Dev
-# Project 4 - *Name of App Here*
+# Project 4 - *Photo Scavenger Hunt*
 
 Submitted by: **Janet Cueto Calnick**
 
